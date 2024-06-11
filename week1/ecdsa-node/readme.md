@@ -32,7 +32,7 @@ _Hint_ - Use [nodemon](https://www.npmjs.com/package/nodemon) instead of `node` 
 
 ### Accounts Generator
 
-In order to generate accounts to work with enter the following command being at server root:
+In order to generate accounts to work with, enter the following command from the server root:
 
 ```js
 node ./scripts/generate.js
